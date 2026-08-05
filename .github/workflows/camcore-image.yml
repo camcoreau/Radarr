@@ -6,6 +6,8 @@ on:
       - develop
     paths:
       - "frontend/src/Content/Images/logo-full.png"
+      - "frontend/src/Content/Images/Icons/camcore-*"
+      - "frontend/src/Content/camcore-manifest.json"
       - "frontend/src/login.html"
       - "Dockerfile.camcore"
       - ".github/workflows/camcore-image.yml"
@@ -14,6 +16,8 @@ on:
       - develop
     paths:
       - "frontend/src/Content/Images/logo-full.png"
+      - "frontend/src/Content/Images/Icons/camcore-*"
+      - "frontend/src/Content/camcore-manifest.json"
       - "frontend/src/login.html"
       - "Dockerfile.camcore"
       - ".github/workflows/camcore-image.yml"
