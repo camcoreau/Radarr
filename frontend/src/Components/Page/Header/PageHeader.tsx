@@ -60,7 +60,7 @@ function PageHeader({ isSmallScreen }: PageHeaderProps) {
                 ? `${window.Radarr.urlBase}/Content/Images/logo.png`
                 : `${window.Radarr.urlBase}/Content/Images/logo-full.png`
             }
-            alt="Radarr Logo"
+            alt="CamCore"
           />
         </Link>
       </div>
