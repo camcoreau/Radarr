@@ -4,3 +4,4 @@ LABEL org.opencontainers.image.title="CamCore Radarr"
 LABEL org.opencontainers.image.description="Radarr with CamCore branding"
 
 COPY frontend/src/Content/Images/logo-full.png /app/radarr/bin/UI/Content/Images/logo-full.png
+COPY frontend/src/login.html /app/radarr/bin/UI/login.html
