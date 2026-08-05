@@ -6,6 +6,7 @@ on:
       - develop
     paths:
       - "frontend/src/Content/Images/logo-full.png"
+      - "frontend/src/login.html"
       - "Dockerfile.camcore"
       - ".github/workflows/camcore-image.yml"
   push:
@@ -13,6 +14,7 @@ on:
       - develop
     paths:
       - "frontend/src/Content/Images/logo-full.png"
+      - "frontend/src/login.html"
       - "Dockerfile.camcore"
       - ".github/workflows/camcore-image.yml"
   workflow_dispatch:
