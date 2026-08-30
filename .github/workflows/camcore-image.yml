@@ -6,6 +6,7 @@ on:
       - develop
     paths:
       - "frontend/src/Content/Images/logo-full.png"
+      - "frontend/src/Content/Images/camcore-logo.svg"
       - "frontend/src/Content/Images/Icons/camcore-*"
       - "frontend/src/Content/camcore-manifest.json"
       - "frontend/src/login.html"
